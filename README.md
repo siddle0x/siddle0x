@@ -1,7 +1,6 @@
 <h3 align="center">Siddle0x</h3>
 <p align="center">
   <a href="https://github.com/Siddle0x">
-    <img src="https://discord.c99.nl/widget/theme-3/324028503051862023.png" alt="armfxl"/>
      </a>
 <h2 align="center">Languages:
 <br>
